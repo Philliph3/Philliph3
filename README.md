@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Philliph3
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning SIEM QRadar
+- 🌱 I’m currently learning Ethical Hacking
 - 💞️ I’m looking to collaborate on all i can
 
 <!---
